@@ -5,10 +5,10 @@ Hackaday Superconference Workshop - November 4, 2018
 Install the Arduino IDE from https://arduino.cc/downloads
         
 ### Arduino SAMD Board Definitions
-Install the Arduino SAMD Board definitions. Use menu /Tools -> Boards -> Boards Manager/ and search for "1010"
+Install the Arduino SAMD Board definitions. Use menu _Tools -> Boards -> Boards Manager_ and search for "1010"
         
 ### Arduino Libraries        
-Install the following Arduino Libraries using the Library manager. Menu /Sketch -> Include Libraries -> Manage Libraries/
+Install the following Arduino Libraries using the Library manager. Menu _Sketch -> Include Libraries -> Manage Libraries_
 
     * WiFiNINA library (search for "NINA")
     * Joël Gähwiler's MQTT library (search for "lwmqtt")
